@@ -1,0 +1,47 @@
+{
+    "title": "Xiaosの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "Xiaos,个人主页",
+    "author": "Xiaos",
+    "logo_img": "https://blossom.xiaos.cool/pic/home/bl/img/U1/64990986ba3b72ab6ca097a69b23d0ab_1.jpg",
+    "logo_text_1": "xiaos",
+    "logo_text_2": "cool",
+    "github": "XiaoSGentle",
+    "qq": "393340139",
+    "email": "393340139@qq.com",
+    "bilibili": "417596005",
+    "facebook": "bottom_user",
+    "link_1": [
+        "https://blossom.xiaos.cool/blog/#/home",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "http://www.xiaos.cool/",
+        "fa-solid fa-cloud",
+        "统计"
+    ],
+    "link_3": [
+        "http://www.xiaos.cool/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_4": [
+        "https://music.163.com/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_5": [
+        "http://www.xiaos.cool/",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "link_6": [
+        "http://www.xiaos.cool/",
+        "fa-solid fa-flask",
+        "敬请期待..."
+    ],
+
+    "Copyright_text": "Xiaos",
+    "beian": "苏ICP备2023027716号"
+}
